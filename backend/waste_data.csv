@@ -1,0 +1,15 @@
+text,category
+"rusted iron pipes and steel beams",Metal
+"aluminum cans and scrap sheets",Metal
+"copper wire scraps from electrical work",Metal
+"cardboard boxes and paper packaging",Paper
+"office paper waste and shredded documents",Paper
+"plastic bottles and polyethylene sheets",Plastic
+"PVC pipes and broken plastic containers",Plastic
+"glass bottles and broken window panes",Glass
+"wooden pallets and sawdust",Wood
+"spent grain and organic food waste",Organic
+"chemical sludge and industrial solvents",Chemical
+"concrete rubble and brick pieces",Construction
+"fly ash from thermal power plant",Construction
+"electronic circuit boards and wires",E-Waste
